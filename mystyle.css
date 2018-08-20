@@ -194,3 +194,13 @@ input.btn:active {
 	background-color: #CCC;
 	border-color: rgba(0,0,0,0.9);
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+}
