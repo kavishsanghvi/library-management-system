@@ -89,5 +89,7 @@ mysqli_select_db($link, $database) or die( "Unable to select database");
 
 
 </body>
-<footer>© Copyright 2017 Library Management System. All rights reserved. Project developed by Kavish Sanghvi, Neha Kasliwal and Tanaaz Makani</footer>
+<div class="footer">
+  <p>© Copyright 2017 Library Management System. All rights reserved. Project designed and developed by Kavish Sanghvi, Neha Kasliwal and Tanaaz Makani</p>
+</div>
 </html>
