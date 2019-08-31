@@ -1,5 +1,7 @@
 # library-management-system-master
-Library Management System
+Library Management System 
+
+Designed and developed to manage major library related functionalities such as finding books, issuing books, returning books, and fine collection.
 
 Platform used: PHP and phpMyAdmin
 
